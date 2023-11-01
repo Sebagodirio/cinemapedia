@@ -3,5 +3,7 @@ export 'package:cinemapedia/presentation/widgets/movies/movie_horizontal_listvie
 export 'package:cinemapedia/presentation/widgets/shared/custom_bottom_navigation.dart';
 export 'package:cinemapedia/presentation/widgets/movies/movies_slideshow.dart';
 export 'package:cinemapedia/presentation/widgets/shared/custom_appbar.dart';
+export 'movies/movies_masonry.dart';
+export 'movies/movie_poster_link.dart';
 
 
